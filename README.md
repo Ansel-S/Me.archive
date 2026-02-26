@@ -19,3 +19,7 @@ View my portfolio on https://barrys27.github.io
 
 ---
 *Status: Continuously Curated | Powered by Docsify*
+
+License
+* The code in this repository is licensed under [MIT](LICENSE).
+* The content and lists are licensed under [CC0 1.0](awesome/LICENSE).

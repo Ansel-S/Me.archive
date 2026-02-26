@@ -50,10 +50,6 @@
             ]
         }
         </script>
-
-        <style>
-            footer { text-align: center; padding: 2rem 0; color: #666; font-size: 0.9rem; }
-        </style>
     </head>
     <body>
         <div id="app">Loading Bairu's Knowledge Base...</div>
@@ -69,23 +65,5 @@
         </script>
 
         <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-
-        <script>
-            (function() {
-                var footerPlugin = function(hook) {
-                    var footerHtml = [
-                        '<hr/>',
-                        '<footer>',
-                        '   <p>© 2026 Bairu Song. Made with ❤️ in Lexington</p>',
-                        '</footer>'
-                    ].join('');
-
-                    hook.afterEach(function(html) {
-                        return html + footerHtml;
-                    });
-                };
-                window.$docsify.plugins = [].concat(window.$docsify.plugins || [], footerPlugin);
-            })();
-        </script>
     </body>
 </html>
