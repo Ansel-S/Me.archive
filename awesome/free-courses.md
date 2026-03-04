@@ -3,3 +3,4 @@
 * [Harvard Justice](https://justiceharvard.org/ ":target=_blank")
 * [CS50's Introduction to Python Programming](https://cs50.harvard.edu/python/ ":target=_blank")
 * [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/ ":target=_blank")
+* [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/ ":target=_blank")
