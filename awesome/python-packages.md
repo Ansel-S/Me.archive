@@ -1,6 +1,16 @@
 # Awesome Python Data & AI Ecosystem [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of the most popular and influential Python packages for Data Science, Machine Learning, and AI in 2026.
+*A curated list of the most popular and influential Python packages for Data Science, Machine Learning, and AI in 2026.*
+
+---
+
+## 🗺️ Table of Contents
+
+* [📊 Core Data Processing](#-core-data-processing) — *High-performance libraries for structured data and scaling.*
+* [🧠 Machine Learning & AI](#-machine-learning--ai) — *Industry-standard frameworks for training and optimization.*
+* [🤖 Generative AI & LLM Tools](#-generative-ai--llm-tools) — *The modern stack for RAG, Agents, and Transformer models.*
+* [📈 Visualization & Web Deployment](#-visualization--web-deployment) — *Building interactive dashboards and high-speed AI APIs.*
+* [🤝 Contributing](#contributing) — *How to help improve this ecosystem.*
 
 ---
 
