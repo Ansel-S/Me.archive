@@ -1,4 +1,16 @@
-# 🎓 Awesome Course List
+# 🎓 Awesome Free Courses [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+*A curated list of world-class, university-level courses available for free, focusing on "high-signal" content—courses that offer rigorous academic depth, legendary instruction, and foundational knowledge across the sciences, humanities, and logic.*
+
+---
+
+## 🗺️ Table of Contents
+
+* [📐 1. Mathematical Foundations](#-1-mathematical-foundations) — *Calculus, Linear Algebra, and Discrete Math.*
+* [🧪 2. Hard Sciences](#-2-hard-sciences) — *Honors Physics, Chemistry, and Biology.*
+* [🏛️ 3. Philosophy & Social Theory](#-3-philosophy--social-theory) — *Justice, Morality, and Social Structures.*
+* [🌍 4. History, Finance & Decision Logic](#-4-history-finance--decision-logic) — *Game Theory, Markets, and Global History.*
+* [🚀 5. Computer Science & Core Skills](#-5-computer-science--core-skills) — *CS50 Series and Professional Foundations.*
 
 ---
 
@@ -63,7 +75,11 @@
 
 * [Hubspot Inbound Marketing](https://academy.hubspot.com/courses/inbound-marketing ":target=_blank")
 * [Yale Science of Happiness](https://www.coursera.org/learn/the-science-of-well-being ":target=_blank")
-* [Harvard Justice](https://justiceharvard.org/ ":target=_blank")
 * [CS50's Introduction to Python Programming](https://cs50.harvard.edu/python/ ":target=_blank")
 * [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/ ":target=_blank")
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/ ":target=_blank")
+
+---
+
+## Contributing
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
