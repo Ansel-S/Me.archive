@@ -10,22 +10,19 @@
 </p>
 
 ---
-<br>
 
-## 📂 Index
+## 🕯️ Featured
 
-### 🔬 Data Science & Research
 * **[Iris Morphological Study](https://github.com/Ansel-S/Iris-Data-Analysis)** - High-dimensional taxonomy analysis.
-
-### 📚 Academic Notes
-* **[AP Microeconomics](./ap-microecon/)** - Comprehensive documentation on market mechanics and efficiency.
 * **[Hubspot Inbound Marketing](./inbound-marketing/)** - Digital strategy and lead generation.
-* **[Yale PSYC 110](./yale-psyc-110/)** - Introduction to Psychology (Open Yale Courses).
-* **[German Language](./german/)** - Linguistic studies and archival notes.
-
-### 🖼️ Other
 * **[@barrys27/ui](https://www.npmjs.com/package/@barrys27/ui/)** - A minimalist CSS/SCSS architecture inspired by iOS HIG, designed for high-density data interfaces.
 * **[Awesome Lists](./awesome/)** - Curated resources and toolkits.
+
+---
+
+## 🕒 Changelog
+
+* **2026-03-16** - Optimize Docsify index page layout
 
 ---
 
