@@ -49,6 +49,18 @@
             ]
         }
         </script>
+        <style>
+            :root {
+                --theme-color: #F7E7CE;
+                --base-background-color: #1C1C1E;
+                --sidebar-background: #000000;
+                --base-font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Helvetica Neue", sans-serif;
+                --heading-font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", sans-serif;
+            }
+            .sidebar {
+                border-right: 0.5px solid rgba(255, 255, 255, 0.1);
+            }
+        </style>
     </head>
     <body>
         <div id="app">Loading Ansel's Knowledge Base...</div>
@@ -58,6 +70,10 @@
                 name: 'Ansel',
                 repo: 'https://github.com/Ansel-S',
                 themeColor: '#F7E7CE',
+                themeable: {
+                    readyTransition: true,
+                    responsiveTables: true
+                },
                 loadSidebar: true,
                 auto2top: true,
                 subMaxLevel: 3,
